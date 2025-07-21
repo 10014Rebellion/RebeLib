@@ -23,7 +23,6 @@ import edu.wpi.first.math.util.Units;
 import edu.wpi.first.wpilibj.Alert;
 import edu.wpi.first.wpilibj.Alert.AlertType;
 import frc.robot.subsystems.drive.ModuleIOInputsAutoLogged;
-
 import org.littletonrobotics.junction.Logger;
 
 public class Module {
