@@ -1,4 +1,4 @@
-// REBELLION 10014
+// (c) 2025 FRC REBELLION
 
 package frc.RebeLib.commands;
 
